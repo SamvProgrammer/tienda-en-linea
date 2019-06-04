@@ -39,12 +39,12 @@ Table OF Contents
 ------ Product slick
 7 > PRODUCTS PAGE
 ------ Aside
------- Store
+------ Tienda
 8 > PRODUCT DETAILS PAGE
 ------ Product view
 ------ Product details
 ------ Product tab
-9 > CHECKOUT PAGE
+9 > Añadidos PAGE
 10 > FOOTER
 11 > SLICK
 ------ Arrows
@@ -368,7 +368,7 @@ textarea.input {
   padding-right: 45px;
 }
 
-.header-search>form .search-categories {
+.header-search>form .search-Categorias {
   position: absolute;
   left: 0px;
   top: 0px;
@@ -1187,10 +1187,10 @@ textarea.input {
 }
 
 /*----------------------------*\
-	Store
+	Tienda
 \*----------------------------*/
 
-#store {
+#Tienda {
   margin-top: 15px;
   padding-top: 30px;
   border-top: 1px solid #DADADA;
@@ -1199,7 +1199,7 @@ textarea.input {
   border-bottom: 1px solid #DADADA;
 }
 
-/*-- store filter --*/
+/*-- Tienda filter --*/
 
 .row-filter {
   display: inline-block;
@@ -1243,23 +1243,23 @@ textarea.input {
   display: inline-block;
 }
 
-.store-pages {
+.Tienda-pages {
   display: inline-block;
   margin-left: 15px;
 }
 
-.store-pages li {
+.Tienda-pages li {
   display: inline-block;
   margin-right: 6px;
 }
 
-.store-pages li a {
+.Tienda-pages li a {
   display: block;
   min-width: 10px;
   text-align: center;
 }
 
-.store-pages li.active {
+.Tienda-pages li.active {
   color: #F8694A;
 }
 
@@ -1522,7 +1522,7 @@ textarea.input {
 }
 
 /*=========================================================
-	09 -> CHECKOUT PAGE
+	09 -> Añadidos PAGE
 ===========================================================*/
 
 .shiping-methods {
@@ -1715,10 +1715,10 @@ textarea.input {
   .banner h1 {
     font-size: 36px;
   }
-  .store-filter .pull-right, .store-filter .pull-left {
+  .Tienda-filter .pull-right, .Tienda-filter .pull-left {
     float: none !important;
   }
-  .store-filter .pull-right {
+  .Tienda-filter .pull-right {
     margin-top: 15px;
   }
 }
